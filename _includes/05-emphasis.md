@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+> Accomplished Sales and Customer Service Specialist experienced in turning excellent service and sales strategies into bottom-line results in customer loyalty. Solid background in providing outstanding service, building customer relationships and exceeding objectives expectations <
