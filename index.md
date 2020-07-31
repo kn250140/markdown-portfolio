@@ -25,4 +25,4 @@ layout: default
 
 <br>
 
-> Accomplished Sales and Customer Service Specialist experienced in turning excellent service and sales strategies into bottom-line results in customer loyalty. Solid background in providing outstanding service, building customer relationships and exceeding objectives expectations.
+>Accomplished **Sales** and **Customer Service Specialist** experienced in turning excellent service and sales strategies into bottom-line results in customer loyalty. Solid background in providing outstanding service, building customer relationships and exceeding objectives expectations.
