@@ -10,5 +10,4 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
-
+**[Katarina Nikolic LinkedIn](https://www.linkedin.com/in/katarina-nikolic-14951089)**
